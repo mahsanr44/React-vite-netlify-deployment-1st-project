@@ -10,7 +10,7 @@ const Project = () => {
       </nav>
       <div className='bg-[#282D35] text-white'>
         <h1 className='font-bold py-6 px-3'>Fun facts about React</h1>
-        <ul className='p-2'>
+        <ul className='p-2 list-disc list-inside'>
           <li>Was first released in 2013</li>
           <li>Was originally created by Jordan Walke</li>
           <li>Has well over 100K stars on GitHub</li>
